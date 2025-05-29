@@ -1,2 +1,2 @@
-# KAIM_W1_FinanceNewsAnalytics
+# Predicting Price Moves with News Sentiment
 Financial News Sentiment Analysis Project
